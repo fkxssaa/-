@@ -230,8 +230,10 @@ soul:
 	2. c++，python：两个编程语言需要看一些相关的基础知识，可能会问到一些多线程的问题
 	3. 机器学习：过拟合，正则，激活函数
 	4. 深度学习：bn，优化器，激活函数，梯度下降
-	  p.s.上面ml和dl这些经常被问到的问题，需要重点理解原理，有可能会变着花样问。
+	  p.s.上面ml和dl这些经常被问到的问题，需要重点理解原理，有可能会变着花样问。https://docs.qq.com/doc/DRk5zc09ma21iUGJv
 	5. 计算机视觉：轻量化网络，检测网络。这些内容和简历项目有关，因为我的项目主要是轻量化检测任务所以会偏向这两个方面。
+	https://docs.qq.com/doc/DRlFtWndjRXFzSWFY
+	https://docs.qq.com/doc/DRldEek1qQ0ZHVk93
 	6. 工程：剪枝，量化，模型加速。
 
 	
