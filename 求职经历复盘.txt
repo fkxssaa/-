@@ -227,6 +227,7 @@ soul:
 
 总结：
 	1. code：推荐一个链接，有各个公司最近的代码题非常好用https://codetop.cc/home
+	https://labuladong.gitee.io/algo/
 	2. c++，python：两个编程语言需要看一些相关的基础知识，可能会问到一些多线程的问题
 	3. 机器学习：过拟合，正则，激活函数
 	4. 深度学习：bn，优化器，激活函数，梯度下降
